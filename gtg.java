@@ -1,2 +1,2 @@
-public ggg void main(){}
+public gsgg vssoid main(){}
 

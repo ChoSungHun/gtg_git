@@ -1,2 +1,2 @@
-public void main(){}
+public ggg void main(){}
 
